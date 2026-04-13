@@ -1,5 +1,6 @@
 crawled_files
 out
+out-old
 list-sites.txt
 node-modules
 node_modules
